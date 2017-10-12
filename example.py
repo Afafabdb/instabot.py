@@ -13,16 +13,14 @@ from instabot import InstaBot
 from unfollow_protocol import unfollow_protocol
 
 bot = InstaBot(
-    login="damatastore",
-    password="prica7344",
-    #login="quetaldisso",
-    #password="renanvilela05888",
+    login="aaa",
+    password="aaa",
     like_per_day=1000,
     comments_per_day=0,
     tag_list=['arquiteturaeinteriores', 'homedecor', 'instadecor', 'decoracao', 'adornos', 'decoracaobh', 'decoracaobetim', 'betim', 'noivado', 'listadecasamento', 'noivadoano', 'banheirodecorado', 'cozinhadecorada', 'design', 'designdeinteriores', 'interiores', 'home', 'saladecorada'],
     tag_blacklist=['hot', 'porn'],
     location_list=['213255513/belo-horizonte-brazil', '224209461/bh-shopping', '376912722/belo-horizonte-lourdes', '216164356/espaco-meet-porcao', '213396416/minas-brasilia-tenis-clube', '1550619/feira-hippie-de-bh', '3296752/betim', '235138272/partage-shopping-betim', '1015146082/betim-minas-gerais', '9481680/metropolitan-shopping-betim', 'condominio-ouro-verde-betim', '216459798/teuto-esporte-clube', '261803734/condominio-montserrat', '5516128/hudson-restaurante-e-pizzaria', '447149396/espaco-wedding-vestidos-dia-da-noiva', '359560619/condominio-saraiva', '1031366930/jardim-da-cidade'],
-    user_blacklist={'daimlerneves':''},
+    user_blacklist={'aaa':''},
     max_like_for_one_tag=50,
     follow_per_day=300,
     follow_time=1 * 60,
