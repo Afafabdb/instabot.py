@@ -13,8 +13,8 @@ from instabot import InstaBot
 from unfollow_protocol import unfollow_protocol
 
 bot = InstaBot(
-    login="aaa",
-    password="aaa",
+    login="gaming_bucko",
+    password="holyangles98",
     like_per_day=1000,
     comments_per_day=0,
     tag_list=['arquiteturaeinteriores', 'homedecor', 'instadecor', 'decoracao', 'adornos', 'decoracaobh', 'decoracaobetim', 'betim', 'noivado', 'listadecasamento', 'noivadoano', 'banheirodecorado', 'cozinhadecorada', 'design', 'designdeinteriores', 'interiores', 'home', 'saladecorada'],
